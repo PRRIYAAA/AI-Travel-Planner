@@ -16,6 +16,8 @@ docstring_parser==0.17.0
 fonttools==4.60.1
 gitdb==4.0.12
 GitPython==3.1.45
+google-auth==2.41.1
+google-genai==1.41.0
 google-search==1.1.1
 google_search_results==2.4.2
 h11==0.16.0
@@ -38,6 +40,8 @@ pandas==2.3.3
 pillow==11.3.0
 protobuf==6.32.1
 pyarrow==21.0.0
+pyasn1==0.6.1
+pyasn1_modules==0.4.2
 pydantic==2.11.9
 pydantic-settings==2.11.0
 pydantic_core==2.33.2
@@ -53,6 +57,7 @@ referencing==0.36.2
 requests==2.32.5
 rich==14.1.0
 rpds-py==0.27.1
+rsa==4.9.1
 serpapi==0.1.5
 shellingham==1.5.4
 six==1.17.0
@@ -69,3 +74,5 @@ typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
+websockets==15.0.1
+
