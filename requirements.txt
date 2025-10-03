@@ -58,7 +58,3 @@ typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
-streamlit==1.30.0
-serpapi==0.1.5
-python-dotenv==1.0.0
-agno==0.1.0
