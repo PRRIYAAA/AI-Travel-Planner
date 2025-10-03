@@ -1,5 +1,5 @@
 streamlit>=1.38.0
-serpapi>=1.0.0
+serpapi==0.1.5
 agno>=0.3.6
 fpdf2>=2.7.9
 python-dotenv>=1.0.1
